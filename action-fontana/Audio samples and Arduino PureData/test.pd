@@ -1,0 +1,10 @@
+#N canvas 545 66 632 397 10;
+#X msg 149 69 start;
+#X obj 131 103 readsf~ 2;
+#X msg 131 31 open longcut1.wav;
+#X obj 131 144 dac~;
+#X obj 246 210 unpackOSC;
+#X connect 0 0 1 0;
+#X connect 1 0 3 0;
+#X connect 1 1 3 1;
+#X connect 2 0 1 0;
