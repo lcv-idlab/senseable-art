@@ -9,4 +9,6 @@ For more informations visit:
 
 [Senseable Art Workshop](http://www.mci.supsi.ch/senseable-art/)
 
-All the porjects are released under CC BY-NC-SA 4.0 unless otherwise stated.
+All the projects are released under CC BY-NC-SA 4.0 for the non-software material unless otherwise stated.
+
+All the project's code is released under MIT licence unless otherwise stated.
